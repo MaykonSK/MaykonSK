@@ -4,7 +4,7 @@ O meu nome é Maycon, tenho 25 anos e estou cursando o 7º período do curso de 
 
 - 👯 Atualmente estou à procura de estágio
 - 🔭 Trabalho com vendas de produtos de informática na internet
-- 🌱 Depois de um tempo parado, estou voltando a desenvolver para Android
+- 🌱 Depois de um tempo parado, estou voltando a desenvolver para Web e Android
 - 😔 Conheci o GitHub um pouco tarde, então consegui recuperar apenas alguns projetos
 - ❤️ A minha paixão é desenvolvimento Web e Mobile
 - ⚡ Eu jogo Counter-Strike: Global Offensive (CS:GO)
