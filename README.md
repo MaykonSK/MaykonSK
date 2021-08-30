@@ -6,6 +6,7 @@ O meu nome é Maycon, tenho 25 anos e estou cursando o 7º período do curso de 
 - 🔭 Trabalho com vendas de produtos de informática na internet
 - 🌱 Depois de um tempo parado, estou voltando a desenvolver para Android
 - 😔 Conheci o GitHub um pouco tarde, então consegui recuperar apenas alguns projetos
+- ❤️ A minha paixão é desenvolvimento Web e Mobile
 - ⚡ Eu jogo Counter-Strike: Global Offensive (CS:GO)
 - 📫 Contato: https://www.linkedin.com/in/maycon-rodrigo-93a42916b/
 
