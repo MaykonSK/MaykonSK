@@ -8,6 +8,6 @@ O meu nome é Maycon, tenho 25 anos e estou cursando o 7º período do curso de 
 - 😔 Conheci o GitHub um pouco tarde, então consegui recuperar apenas alguns projetos
 - ❤️ A minha paixão é desenvolvimento Web e Mobile
 - ⚡ Eu jogo Counter-Strike: Global Offensive (CS:GO)
-- 📫 Contato: https://www.linkedin.com/in/maycon-rodrigo-93a42916b/
+- 📫 Contato: https://www.linkedin.com/in/maycon-rodrigo/
 
 “Nunca deixe ninguém dizer que você não pode fazer uma coisa, se você tem um sonho, corra atrás dele. As pessoas não conseguem vencer e dizem que você também não vai vencer. Se você quer uma coisa, corra atrás." Will Smith em À Procura da Felicidade - Filme 2006
