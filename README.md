@@ -14,5 +14,5 @@ O meu nome é Maycon, tenho 25 anos e estou cursando o 6º período do curso de 
 - ANDROID STUDIO
 - WORDPRESS
 - PHOTOSHOP
-- 
+
 - 📫 Contato: https://www.linkedin.com/in/maycon-rodrigo/
